@@ -1,0 +1,20 @@
+.box{
+    background-image: -webkit-linear-gradient(-20deg, #781374 50%, #D9B7D8 50%);
+    display:flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.codechef{
+    padding: 3rem; 
+margin-left: 5rem; 
+margin-top: 5rem; 
+font-size: 2.25rem;
+line-height: 2.5rem; 
+font-weight: 600; 
+background: linear-gradient(to right, #d191d3 70%, #972C92 30%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
